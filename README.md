@@ -40,9 +40,6 @@ Jupyter Notebook: Analysis and reporting
 
 https://1drv.ms/i/c/ed9c784d02c51eac/EcAdrQ45LaFMszDvHuCXXbkBAdyfENnpruFrY2sPV4NZnQ?e=vwz1gL
 
-👉 View Dashboard
-  customer dashboard.pbit
-
 🔑 Key Insights
 
 Customers with short tenure are more likely to churn.
