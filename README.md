@@ -30,7 +30,9 @@ Built an interactive dashboard for executives to monitor churn rate, customer se
 
 🛠️ Tools & Technologies
 
-Python: Pandas, NumPy, Matplotlib, Seaborn
+Python: Pandas, Matplotlib, Seaborn , Scikit-learn
+
+
 
 Power BI: Dashboard & interactive visualizations
 
